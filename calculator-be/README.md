@@ -29,9 +29,9 @@ On Windows, you can follow next steps:
 ## Start up project
 
 ```
-$ yarn start:dev`
+$ yarn start:dev
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [https://localhost:3001].
 ```
 
