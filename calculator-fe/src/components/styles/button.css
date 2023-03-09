@@ -1,0 +1,16 @@
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+    transition: all 0.3s ease-in-out;
+}
+
+.typing {
+    opacity: 1;
+    background-color: #c3c3c3 !important;
+}
+
+.button-container:hover {
+    opacity: 1;
+}

@@ -1,0 +1,14 @@
+.screen {
+    border: none;
+    outline: none;
+    height: 100px;
+    width: 100%;
+    color: #ffffff;
+    background-color: transparent;
+    font-size: 72px;
+    text-align: right;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
